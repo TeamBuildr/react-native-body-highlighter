@@ -1,6 +1,6 @@
 {
   "name": "@teambuildr/react-native-body-highlighter",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "description": "A forked version with left and right sides of body separated with a modified oval head for the male body only",
   "main": "index.tsx",
   "scripts": {
